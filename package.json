@@ -1,0 +1,22 @@
+{
+  "name": "wages-react-app",
+  "version": "1.0.0",
+  "description": "'wages react app'",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "request": "^2.81.0",
+    "webpack": "^3.5.4",
+    "webpack-dev-server": "^2.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "webpack-dev-server --hot",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "proxy": "http://localhost:3000",
+  "author": "",
+  "license": "ISC"
+}
