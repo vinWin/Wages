@@ -73,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+            <state relative-caret-position="690">
+              <caret line="46" column="48" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
               <folding>
                 <element signature="n#!!block;n#handlePageSizeChange#0;n#App#0" expanded="false" />
                 <element signature="n#!!block;n#handleFilterChange#0;n#App#0" expanded="false" />
@@ -85,6 +85,16 @@
                 <element signature="n#!!block;n#handleSortClick#0;n#App#0" expanded="false" />
                 <element signature="e#7579#7595#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -131,6 +141,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -279,12 +290,12 @@
       <workItem from="1502574660851" duration="36191000" />
       <workItem from="1502668958328" duration="13588000" />
       <workItem from="1502732592791" duration="31462000" />
-      <workItem from="1503020569901" duration="77591000" />
+      <workItem from="1503020569901" duration="78039000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158832000" />
+    <option name="totallyTimeSpent" value="159280000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1379" height="778" extended-state="0" />
@@ -582,8 +593,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        <state relative-caret-position="690">
+          <caret line="46" column="48" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
           <folding>
             <element signature="n#!!block;n#handlePageSizeChange#0;n#App#0" expanded="false" />
             <element signature="n#!!block;n#handleFilterChange#0;n#App#0" expanded="false" />
@@ -591,6 +602,14 @@
             <element signature="n#!!block;n#handleSortClick#0;n#App#0" expanded="false" />
             <element signature="e#7579#7595#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
