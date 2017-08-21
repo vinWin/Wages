@@ -11,14 +11,16 @@
     "webpack": "^3.5.4",
     "webpack-dev-server": "^2.7.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "babel-preset-react-native": "^3.0.0"
+  },
   "scripts": {
     "start": "webpack-dev-server --hot",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "engines":{
-    "node":"7.10.0",
-    "npm":"4.2.0"
+  "engines": {
+    "node": "7.10.0",
+    "npm": "4.2.0"
   },
   "proxy": "http://localhost:3000",
   "author": "",
