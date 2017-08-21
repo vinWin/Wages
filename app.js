@@ -1,5 +1,4 @@
 import React from 'react';
-var $ = require("jquery");
 
 class WagesTable extends React.Component{
     constructor(props) {
