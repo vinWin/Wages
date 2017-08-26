@@ -1,0 +1,3 @@
+# Wages
+
+React app 
